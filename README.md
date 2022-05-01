@@ -1,1 +1,2 @@
 # odin-recipes
+This project seeks to drive home the fundamentals of creating an HTML boilerplate, as well as utilizing tags for the purposes of adding information to HTML documents. In addition, this project will provide experience in retrieving files from git, adding to them, and commiting them back to git.
